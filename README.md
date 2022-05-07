@@ -1,6 +1,6 @@
 # Ejercicios Javascript 11 - Jonatan Villa Castaño y Juan Manuel Caicedo Castaño.
 
-*Se realiza la ejecucion de los ejercicios utilizando el lengueja Javascript.*
+*Se realiza la ejecucion de los ejercicios utilizando el lenguaje Javascript.*
 
 ## Autores ✒️
 
